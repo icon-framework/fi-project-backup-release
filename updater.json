@@ -16,8 +16,8 @@
       "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMXNnQlc3VnBwUTVvMTFpdWhHVG1LYnhFcHI1aWxWdHdicDhFbFNwV0Y2cW1mdS9BNytVb3hJbDA4NlFLeWRmVU5naDcrUG9USG5ZK1hwYmpTU2M0VkZtYzR0NkxZdFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA4MzMyNTkzCWZpbGU6RkkgUHJvamVjdCBCYWNrdXBfMS4wLjFfeDY0X2VuLVVTLm1zaS56aXAKSHkyb041RjFTY1NvUldzS3dpbTAwV0ZRc1ZZc0lhZGI5NEsyekxvcUNQZG9PN2xyWVVQdFEzWXNZRjc2R2F6Z1E2QjA4TU00akMxVm9yczR5U1RkQXc9PQo=",
-      "url": "https://github.com/icon-framework/fi-project-backup-release/releases/download/1.0.1/FI.Project.Backup_1.0.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMXNnQlc3VnBwUTJoUURJblAxbDZORmgyeDNmRDVtcmh6U2d3QmFqNzVLYUFBaDd2WGxpT210d1V5am9SVFZHdU5mbm51SWE0UW1paG91SW1pL3owQTlYSS9mVkdLbGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5Mjc2NjMzCWZpbGU6RkkgUHJvamVjdCBCYWNrdXBfMS4wLjJfeDY0X2VuLVVTLm1zaS56aXAKU3hhQ1NPWDBHZTRDRURYL1J6UEczQ2JacFJsL3JjVHN4UGhGamR6amQxblV5TlFlL2tkVTBCOHp2ZzJML2RlYWZvc0JhRnV3UEJFY3FWWldCMDRZQWc9PQo=",
+      "url": "https://github.com/icon-framework/fi-project-backup-release/releases/download/1.0.2/FI Project Backup_1.0.2_x64_en-US.msi.zip"
     }
   }
 }
