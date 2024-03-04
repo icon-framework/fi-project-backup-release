@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.1",
+  "version": "v1.0.3",
   "notes": "Release",
   "pub_date": "2024-03-04T00:00:00Z",
   "platforms": {
@@ -17,7 +17,7 @@
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMXNnQlc3VnBwUXhyNXNEcjBCY2w2WjlzSm9WMDRzbXphL0pvWitSbU8rUTVXS013c1dZZjc0cXJUdzNJT3VNYVFNY1lKU3VCclgvMUxVd0ZnVE9kdURYaW9aQk0vTXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5NTIyNzMyCWZpbGU6RkkgUHJvamVjdCBCYWNrdXBfMS4wLjNfeDY0X2VuLVVTLm1zaS56aXAKd0pNTVpqbEtyZ2dYbkJ2a0FMdU5MM2Q5a2liYTNnOStMTWZMMzBRc2tyK0IyQ0NLZzhRZXhBWEZTSUxXbzlvYzhlSTllbU12VkUrSldrZUxTWmt4Q0E9PQo=",
-      "url": "https://github.com/icon-framework/fi-project-backup-release/releases/download/1.0.3/FI Project Backup_1.0.3_x64_en-US.msi.zip"
+      "url": "https://github.com/icon-framework/fi-project-backup-release/releases/download/1.0.3/FI.Project.Backup_1.0.3_x64_en-US.msi.zip"
     }
   }
 }
