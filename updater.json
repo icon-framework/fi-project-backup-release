@@ -1,7 +1,7 @@
 {
-  "version": "v1.0.4",
+  "version": "v1.0.5",
   "notes": "Release",
-  "pub_date": "2024-05-20T00:00:00Z",
+  "pub_date": "2024-05-21T00:00:00Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "Content of app.tar.gz.sig",
@@ -16,8 +16,8 @@
       "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMXNnQlc3VnBwUXkwbmZNRHZ5T20wKy9kZlZPQXN4eVgvTU9tU1JBTElka3NlemFZbWRwWjNMT1pQY3dlcTFFZFlvZTR5QUFCS1dtU3FJcHMzKy9KRGQrNzV2ejVZK1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2Mjg2NDY0CWZpbGU6RkkgUHJvamVjdCBCYWNrdXBfMS4wLjRfeDY0X2VuLVVTLm1zaS56aXAKcjhmQjFEaW5uSVpIcHJMS0llVGo3YnVSMDZXbjdsU1pFaStnTjFSY0JhcVJwbmx1ZEVaa2ZYeE1sbFF6VXFsMmFQaE5KenkyK2pIK2tWM2FVbzEzREE9PQo=",
-      "url": "https://github.com/icon-framework/fi-project-backup-release/releases/download/1.0.4/FI.Project.Backup_1.0.4_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMXNnQlc3VnBwUTdqa2p6WEFsNjdWZ1o0RzRtVnQxZlp6eU5GK0Q5ZUNha1VjTDg1Vm02bHNRQnV5VzlWMFpla3VEUGJ3SFYrTk9aMGhsVWJYNlNMQVFxeEF2eDMrWVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2Mjg3NDAwCWZpbGU6RkkgUHJvamVjdCBCYWNrdXBfMS4wLjVfeDY0X2VuLVVTLm1zaS56aXAKVCsrbER0akY0R1p6L0xCVzR5eWMvaENYbXZITTdBV2ZRbEVxSUhtaTF0RzZlNW5nTXA4UXJCa2lpU1hSWHI4SGNhTWd0NjI4ZDVEYmw0aUhMZHdzRGc9PQo=",
+      "url": "https://github.com/icon-framework/fi-project-backup-release/releases/download/1.0.5/FI.Project.Backup_1.0.5_x64_en-US.msi.zip"
     }
   }
 }
