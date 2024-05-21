@@ -1,6 +1,6 @@
 {
-  "version": "v1.0.5",
-  "notes": "Release",
+  "version": "v1.0.6",
+  "notes": "แก้ไขปัญหาดาวน์โหลดไม่ได้ หรือ ใช้เมมโมรี่มากเกินไป",
   "pub_date": "2024-05-21T00:00:00Z",
   "platforms": {
     "darwin-x86_64": {
@@ -16,8 +16,8 @@
       "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMXNnQlc3VnBwUTdqa2p6WEFsNjdWZ1o0RzRtVnQxZlp6eU5GK0Q5ZUNha1VjTDg1Vm02bHNRQnV5VzlWMFpla3VEUGJ3SFYrTk9aMGhsVWJYNlNMQVFxeEF2eDMrWVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2Mjg3NDAwCWZpbGU6RkkgUHJvamVjdCBCYWNrdXBfMS4wLjVfeDY0X2VuLVVTLm1zaS56aXAKVCsrbER0akY0R1p6L0xCVzR5eWMvaENYbXZITTdBV2ZRbEVxSUhtaTF0RzZlNW5nTXA4UXJCa2lpU1hSWHI4SGNhTWd0NjI4ZDVEYmw0aUhMZHdzRGc9PQo=",
-      "url": "https://github.com/icon-framework/fi-project-backup-release/releases/download/1.0.5/FI.Project.Backup_1.0.5_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMXNnQlc3VnBwUTFKdUFId09pckRqY1ZKYlhYdFVlbzdMZ3ltSTg1Q1ZBRTVjNU9hSm1JQ09mNEJ0SnNHMHQvS29SSjJ0TTFjMXVhamcxMTJJWkhndU40eFJ4Q3FvNlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2Mjg5MjAyCWZpbGU6RkkgUHJvamVjdCBCYWNrdXBfMS4wLjZfeDY0X2VuLVVTLm1zaS56aXAKTGE4STFBcXBDUUJvdlNtZlNGWEdLUEZIV21ydXdUSkh1cFZBalIzWitXa3huK0VnK0UvMHpIbTI4QVVoRDhhNC9HeFFrL1ZGWjYzSW5ucmxzakNGRHc9PQo=",
+      "url": "https://github.com/icon-framework/fi-project-backup-release/releases/download/1.0.6/FI.Project.Backup_1.0.6_x64_en-US.msi.zip"
     }
   }
 }
