@@ -1,7 +1,7 @@
 {
-  "version": "v1.0.6",
-  "notes": "แก้ไขปัญหาดาวน์โหลดไม่ได้ หรือ ใช้เมมโมรี่มากเกินไป",
-  "pub_date": "2024-05-21T00:00:00Z",
+  "version": "v1.0.7",
+  "notes": "แก้ไขปัญหาแอปพลิเคชันค้างเมื่อกดเลือกโครงการที่ drop down menu",
+  "pub_date": "2024-07-09T00:00:00Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "Content of app.tar.gz.sig",
@@ -16,8 +16,8 @@
       "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMXNnQlc3VnBwUTFKdUFId09pckRqY1ZKYlhYdFVlbzdMZ3ltSTg1Q1ZBRTVjNU9hSm1JQ09mNEJ0SnNHMHQvS29SSjJ0TTFjMXVhamcxMTJJWkhndU40eFJ4Q3FvNlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2Mjg5MjAyCWZpbGU6RkkgUHJvamVjdCBCYWNrdXBfMS4wLjZfeDY0X2VuLVVTLm1zaS56aXAKTGE4STFBcXBDUUJvdlNtZlNGWEdLUEZIV21ydXdUSkh1cFZBalIzWitXa3huK0VnK0UvMHpIbTI4QVVoRDhhNC9HeFFrL1ZGWjYzSW5ucmxzakNGRHc9PQo=",
-      "url": "https://github.com/icon-framework/fi-project-backup-release/releases/download/1.0.6/FI.Project.Backup_1.0.6_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMXNnQlc3VnBwUTBtTHFhMmNwL1VITUJUMlp4N0NDOVJnYmFiKzFwZ3BOS2krS3Zyc0ExVmYwRitzZWptM202UHN0bUxaZWRURHFLY29zQ1MyYi9pL0RVOGVQUVJMUWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwNTAwNjM3CWZpbGU6RkkgUHJvamVjdCBCYWNrdXBfMS4wLjdfeDY0X2VuLVVTLm1zaS56aXAKMUFha0lMZXdmaFp1QmlkS0JHQmJhbm9Kak1DTm9taTk3SnlFeHJ0Q1prWm9GeGxCN2lTYlFiWkNoZkxiMElUY1o2bGJkSHBxZWJyY05PbENyQnVOQ0E9PQo=",
+      "url": "https://github.com/icon-framework/fi-project-backup-release/releases/download/1.0.7/FI.Project.Backup_1.0.7_x64_en-US.msi.zip"
     }
   }
 }
